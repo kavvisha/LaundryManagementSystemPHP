@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>Laundry/laundryMachines.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>21</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>100</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/laundryMachines.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/laundryMenu.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/wash.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/toaddjob.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/machineWork.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/inc/header.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/JobHistory.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/navimenu.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/addMachineP.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/viewJobs.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/deleteClothes.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/test.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/addClothP.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/printInvoice.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/removeMachine.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/machineBreakdown.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/addCloth.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/addJobP.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/closeJob.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/laundryStock.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/AddJob.php</file>
+            <file>file:/D:/wamp64/webprojects/www/ITP/Laundry/addInventory.php</file>
+        </group>
+    </open-files>
+</project-private>

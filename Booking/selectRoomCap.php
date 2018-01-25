@@ -1,0 +1,23 @@
+<?php
+require_once 'DataBase.php';
+//require_once 'DB.';
+$output = array();
+ $data = json_decode(file_get_contents("php://input"));  
+ $RoomNO= $data->RoomNo;
+$query ="SELECT * FROM room WHERE RoomNo='".$data->RoomNo."'";
+
+$result = mysqli_query($con,$query);
+
+
+if(mysqli_num_rows($result) >0)
+{
+    while($row =mysqli_fetch_array($result))
+    {
+        $output[] = $row;
+        
+    }
+    echo json_encode($output);
+}
+
+
+
